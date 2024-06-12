@@ -1,0 +1,108 @@
+/*RESET CSS*/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0%;
+}
+/*GENERAL RESET CSS*/
+body{
+    background-color: papayawhip;
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: bolder;
+    min-height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: teal;
+    text-align: center;
+    padding: 40px;
+    border-right: wheat;
+}
+ul,li,a{
+color: black;
+text-decoration: none;
+ padding: 40px; 
+
+}
+
+li,a{
+    display: inline;
+    border: none;
+}
+a:active{
+    background-color: white;
+}
+a:hover{
+    background-color:navy;
+}
+a:visited{
+    background-color: aqua;
+}
+header{
+    background-color: gold;
+    text-align: center;
+}
+figure{
+    .JEY{
+   display: block;
+   margin: auto;;
+   border-radius: 100%;
+    }
+    .SETH{
+        display: block;
+        margin-left:800;
+        border-radius: 100%;
+    }
+    .JOHN{
+        display: block;
+        margin: auto;
+        border-radius: 100%;
+    }
+    .MIZ{
+        display: block;
+        margin-left: 800px;
+        border-radius: 100%;
+    }
+    .SHAWN{
+        display: block;
+        margin: auto;
+        border-radius: 100%;
+    }
+    .ROCK{
+        display: block;
+        margin-left:800;
+        border-radius: 100%;
+    }
+    .H{
+        display: block;
+        margin: auto;
+        border-radius: 100%;
+    }
+    .BIANCA{
+        display: block;
+        margin-left:800 ;
+        border-radius: 100%;
+    }
+    .USOS{
+        display: block;
+        margin: auto;
+        border-radius: 100%;
+    }
+    .BECKY{
+        display: block;
+        margin-left:800;
+        border-radius: 100%;
+    }
+}
+figcaption{
+    text-align: center;
+    background-color:orangered;
+    padding: 50px;
+}
+.right-reserve{
+    background-color: maroon;
+    text-align: center;
+    padding:100px;
+    text-transform: capitalize;
+}

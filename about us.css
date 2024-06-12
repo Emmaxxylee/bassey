@@ -1,0 +1,60 @@
+/*RESET CSS*/
+body{
+    background-color: burlywood;
+    color: navy;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: serif;
+    font-style: oblique;
+    text-transform: capitaliz
+    e;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size:x-large ;
+}
+h3{
+    text-align: center;
+    font-size: larger;
+}
+li{
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    padding: 50px;
+    text-transform: capitalize;
+}
+a{
+    /* float: right;
+    text-decoration: none;
+    padding: none;
+    margin: 50px; */
+    display: inline;
+    text-decoration: none;
+
+}
+a{
+    float: left;
+    border: none;
+    padding: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:visited{
+    background-color: whitesmoke;
+}
+a:hover{
+    background-color:bisque;
+}
+a:active{
+    background-color: navy;
+}
+li{
+    text-transform: capitalize;
+}

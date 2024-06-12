@@ -1,0 +1,105 @@
+/* reset css */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 26px;
+    font-family: informal roman;
+   background-color: grey;
+    text-transform: capitalize;
+    color: red;
+}
+
+header{
+    margin: 10%;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+img{
+    margin-left: 500px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+h2{
+    text-align: center;
+    padding: 30px;
+}
+
+
+input{
+   
+   margin: 10px;
+   width:250px;
+   height: 40px;
+   border-radius: 3%;
+   text-transform: capitalize;
+   text-align: center;
+   color: red;
+   background-color: black;
+
+}
+
+ .home{
+    border: none;
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+}
+.home:visited{
+    background-color: whitesmoke;
+}
+.home:hover{
+    background-color:bisque;
+}
+.home:active{
+    background-color: navy;
+}
+
+form{
+    margin-left: 420px;
+}
+
+p{
+    margin-left: 10px;
+    padding: 50px;
+    text-transform: capitalize;
+
+}
+
+footer{
+    text-align: center;
+     background-color: black;
+    color: red;
+    padding: 50px;
+}
+
+button{
+    margin-left: 16px;
+    width: 250px;
+    height: 40px;
+    background-color: black;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: informal roman;
+    font-size: 26px;
+}
+
+
+
+
+
+

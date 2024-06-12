@@ -1,0 +1,44 @@
+/*RESET CSS*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*GENERAL RESET CSS*/
+body{
+    background-color: palegoldenrod;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+    text-transform: capitalize;
+}
+header{
+    text-align: center;
+    padding: 30px;
+    text-decoration: underline;
+}
+
+figure{
+    margin-left: 420px;
+    padding: 50px;
+}
+footer{
+    text-align: center;
+    padding: 50px;
+    margin: 100px 100px;
+}
+h1 a{
+    color:maroon;
+    border: none;
+    padding: 30px;
+    text-decoration: none;
+}
+a:visited{
+    background-color: whitesmoke;
+}
+a:hover{
+    background-color:bisque;
+}
+a:active{
+    background-color: navy;
+}

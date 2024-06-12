@@ -1,0 +1,85 @@
+/* Reset css */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: red;
+    font-size: 26px;
+    font-family: informal roman;
+    text-transform: capitalize;
+}
+
+
+nav{
+    background-color: grey;
+    padding: 50px;
+   
+}
+
+a:hover{
+    background-color: rgb(4, 5, 4);
+    padding: 30px;
+    
+}
+
+
+ul, li{
+    display: inline;
+   
+}
+
+.sign{
+    float: right;
+}
+
+
+a{
+    padding: 50px;
+    text-decoration: none;
+    color: red;
+}
+
+
+
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 200px;
+
+    
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    font-family:elephant ;
+    color: maroon;
+    text-decoration: overline underline;
+    
+}
+
+button{
+   margin-left: 150px;
+   width: 100px;
+   height: 40px;
+   margin-top: 30px;
+   border-radius: 20px;
+   background-color: red;
+}
+
+figcaption{
+    margin-left:50px ;
+    margin-top: 30px;
+}
+
+footer{
+    text-align: center;
+    padding: 50px;
+    font-family: elephant;
+    background-color:black;
+}

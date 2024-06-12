@@ -1,0 +1,76 @@
+/* /*RESET CSS*/
+body{
+    background-color: papayawhip;
+    color: blue;
+}
+table th,td{
+    border:solid teal 1px;
+    margin: 20%;
+    text-align: center;
+    border-radius: 100%;
+    text-transform:uppercase;
+    font-size: larger;
+    font-family:Elephant;
+    margin: auto;
+}
+td{
+    font-family:ALGERIAN;
+    margin: auto;
+}
+table{
+    margin:auto;
+    
+}
+img{
+    border-radius: 100%;
+}
+h1 a{
+    border: none;
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    background-color: whitesmoke;
+}
+a:hover{
+    background-color:bisque;
+}
+a:active{
+    background-color: navy;
+}
+
+
+footer{
+    text-align: center;
+    padding: 30px;
+    font-family: informal roman;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+ 
